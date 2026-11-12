@@ -4,24 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.5</title>
-      <pubDate>Thu, 12 Nov 2026 09:05:19 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <title>Remark 0.1.6</title>
+      <pubDate>Thu, 12 Nov 2026 12:52:39 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.5 · build 7
+      <description>Remark 0.1.6 · build 8
 
-- Правка текста открывается только по Command E. Удержание Command снова запускает только диктовку.
-- Окно правки открывается с активным полем, без автоматической записи. Микрофон включается по кнопке.
-- Escape закрывает окно правки и отменяет его запись или запрос без применения результата.
-- Сохранено исправление чтения выделенного текста в редакторах со скрытым системным полем.
+- «Мягче» в окне Command E: спокойный текст без грубости, лести и лишних извинений.
+- Сохраняются факты, отказ, требования, сроки, числа и рабочий словарь.
+- Четыре быстрые кнопки помещаются в прежнее окно: «Короче», «Как человек», «В стиле Авито», «Мягче».
 
-Модели, настройки и подключение к серверу сохраняются.
+Command E открывается без записи; Escape закрывает окно. Обычная диктовка, модели, ключи и настройки сохраняются.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.5/Remark-arm64.dmg" length="12351141" type="application/octet-stream" sparkle:edSignature="kMewWxtEHDuag6R8jKYJvz8AbbqJK59lD1yoArJmlo0g0a7ad5jg/od9ZpPdorTCYHNh126VWveyWxP1KT/oAA=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.6/Remark-arm64.dmg" length="12359185" type="application/octet-stream" sparkle:edSignature="aBrlDM4iQ08GWuv4vKz6ib6OKh7ofkPNa60n3p/6hA/ju7HR4pS44bVgCpo97c6HFBTsa2CF63O+Eik8gKwrDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RjMkuYeO0Hvfdc4cv56alCfs/a2aYTkAykwfPQiLcbeRJG4u2tCBhX9oocGnbsd+eR6eEzMgopVi+wk1au43Bw==
-length: 1861
+edSignature: IbWZEAmWLEM76psuDB1xaFnfqaqqFat26DsHSw+AOhcmAZgvgIAbhYLJuMR8C7AImWB3pL+zCKICxGcTA46yCA==
+length: 1725
 -->
