@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.4</title>
-      <pubDate>Thu, 12 Nov 2026 08:40:11 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <title>Remark 0.1.5</title>
+      <pubDate>Thu, 12 Nov 2026 09:05:19 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.4 · build 6
+      <description>Remark 0.1.5 · build 7
 
-- Удерживайте Command: с выделенным текстом откроется окно правки, без выделения начнётся диктовка.
-- Command E также открывает правку. Добавлено резервное чтение выделения для редакторов со скрытым системным полем.
-- Если выделение не удалось определить, работает обычная диктовка.
-- Усилена проверка исходного окна и отмены. Правка не должна попадать в другое окно после переключения.
+- Правка текста открывается только по Command E. Удержание Command снова запускает только диктовку.
+- Окно правки открывается с активным полем, без автоматической записи. Микрофон включается по кнопке.
+- Escape закрывает окно правки и отменяет его запись или запрос без применения результата.
+- Сохранено исправление чтения выделенного текста в редакторах со скрытым системным полем.
 
-Обновление сохраняет модели, настройки и подключение к серверу Remark.
+Модели, настройки и подключение к серверу сохраняются.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.4/Remark-arm64.dmg" length="12362835" type="application/octet-stream" sparkle:edSignature="34bJR053zdms2R6gh5FHlKzQxGVfBh+mDUaCE4NgpegmbWVFuSyPfJr+DiLNkxRhAfPS36qMaM21+B7PZVDYDA=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.5/Remark-arm64.dmg" length="12351141" type="application/octet-stream" sparkle:edSignature="kMewWxtEHDuag6R8jKYJvz8AbbqJK59lD1yoArJmlo0g0a7ad5jg/od9ZpPdorTCYHNh126VWveyWxP1KT/oAA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: biq+0d9FhZBuY4uTRhLeGolZdBN7o6MOrwXmB7Lh+pj4MhfMRDDsxJ4vgasroiaZBvi4tenRL9aE/KkawzgvCg==
-length: 1895
+edSignature: RjMkuYeO0Hvfdc4cv56alCfs/a2aYTkAykwfPQiLcbeRJG4u2tCBhX9oocGnbsd+eR6eEzMgopVi+wk1au43Bw==
+length: 1861
 -->
