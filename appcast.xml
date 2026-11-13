@@ -4,22 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.9</title>
-      <pubDate>Fri, 13 Nov 2026 08:35:07 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <title>Remark 0.1.10</title>
+      <pubDate>Fri, 13 Nov 2026 18:48:24 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.9 · build 11
+      <description>Remark 0.1.10 · build 12
 
-- Исправлен отказ кнопки «Мягче» на личных выпадах: текст можно сделать спокойнее, сохранив конкретные замечания.
-- Запреты, факты, повторность действий, цитаты, сроки и числа остаются защищены. Если модель потеряла факт, одна повторная попытка получает точную инструкцию его сохранить.
-
-Настройки, подключения и модель диктовки сохраняются.
+- В одной версии собраны новый онбординг и все четыре быстрых действия: «Короче», «Как человек», «В стиле Авито», «Мягче».
+- На экране разрешений — клавиша Remark со щитом, бликом и нажатием. Обновлены видео и экран загрузки локальной модели.
+- Стандартное сочетание комментариев — Command + Option. Оно срабатывает после отпускания обеих клавиш. Свои сочетания сохраняются.
+- Поле правки стало компактнее. Ответ без изменений показывается нейтрально; ошибки сокращены. Предупреждение о скачивании модели убрано из полей правки и комментариев.
+- Command-диктовка и Command E сохранены. Настройки, доступ к серверу и загруженные модели сохраняются.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.9/Remark-arm64.dmg" length="12390559" type="application/octet-stream" sparkle:edSignature="ypGPQMzPQ2dJaOef/Ud9qXF172NuvNgak9mMo9egeBAKrTCJQklyBewl30xZlq06wRnNdLmyTcWjK2IwcZuXBA=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.10/Remark-arm64.dmg" length="14431582" type="application/octet-stream" sparkle:edSignature="P2qQz91srCTB7YEs9OOojgzb2Og3JltVn3DPvSZ/36P0yAIfT9qu3XqzOcGBCC2gT2hFjjG+/+kehWPyEaW1Dw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uwH7EpU/wzdheqk3qyMq5KUjB63rsZkNalkdeAyg4L9vPjuykxlSeuNsq3LZLkfeAAdOtxccil5VtX2D7FQHBQ==
-length: 1704
+edSignature: G28CQism5USyLhdpI9XaDxrXkyy9vzX0WETkVrG1q30YoolbDrTMGqIdF0OeXH/i2uNeGYcUXVByVsyrszsXAQ==
+length: 2231
 -->
