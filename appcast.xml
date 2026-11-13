@@ -4,23 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.7</title>
-      <pubDate>Thu, 12 Nov 2026 14:37:37 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>Remark 0.1.9</title>
+      <pubDate>Fri, 13 Nov 2026 08:35:07 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.7 · build 9
+      <description>Remark 0.1.9 · build 11
 
-- Быстрые кнопки Command E больше не подставляют служебную инструкцию в поле. Ручной черновик сохраняется и при ошибке.
-- Добавлены VIN в автомобильном контексте и 31 написание рабочих терминов. Учтены падежи, цитаты и технические обозначения.
-- В словарь диктовки добавлено «Авито». Обычное слово «авто» сохраняется.
+- Исправлен отказ кнопки «Мягче» на личных выпадах: текст можно сделать спокойнее, сохранив конкретные замечания.
+- Запреты, факты, повторность действий, цитаты, сроки и числа остаются защищены. Если модель потеряла факт, одна повторная попытка получает точную инструкцию его сохранить.
 
-Command E открывается без записи; Escape закрывает окно. Модели, подключения и настройки сохраняются.
+Настройки, подключения и модель диктовки сохраняются.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.7/Remark-arm64.dmg" length="12389485" type="application/octet-stream" sparkle:edSignature="2mDCWu2cxDnJvjq2hVToyHwBpx7eSHcqZXujgO8zjsKfxVOiMUOSo/dP0E+dmQeQJB59+TSxXvsisM2Soso8AA=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.9/Remark-arm64.dmg" length="12390559" type="application/octet-stream" sparkle:edSignature="ypGPQMzPQ2dJaOef/Ud9qXF172NuvNgak9mMo9egeBAKrTCJQklyBewl30xZlq06wRnNdLmyTcWjK2IwcZuXBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YBVrx5Uj4B72shKy8FQFzuqNSNW+j8g5YU4XAwZ9I0KEeTjt9q81jmreC81hpgLFXffSjcbCmH0Lmok7H09PDg==
-length: 1819
+edSignature: uwH7EpU/wzdheqk3qyMq5KUjB63rsZkNalkdeAyg4L9vPjuykxlSeuNsq3LZLkfeAAdOtxccil5VtX2D7FQHBQ==
+length: 1704
 -->
