@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.14</title>
-      <pubDate>Wed, 18 Nov 2026 12:27:05 +0000</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <title>Remark 0.1.15</title>
+      <pubDate>Wed, 18 Nov 2026 13:27:43 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.14 · сборка 16
+      <description>Remark 0.1.15 · сборка 17
 
-- В окне ⌘E теперь две вкладки «Стиль» и «Свой запрос». Плашка выбора плавно скользит между ними и слегка растягивается.
-- У вкладок одинаковый размер окна. Длинную команду можно прокручивать внутри поля, а сообщение об ошибке раскрывается ниже.
-- В «Стиле» пять быстрых действий: «Исправить», «Как человек», «Мягче», «Короче» и «В стиле Авито».
+- Окно ⌘E стало на 20 пунктов ниже. У «Стиля» и «Своего запроса» одинаковая высота.
+- Под быстрыми действиями меньше пустого места, а сами кнопки выше.
+- Поле «Свой запрос» компактнее и вмещает две строки. Длинный текст прокручивается внутри поля.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.14/Remark-arm64.dmg" length="14496470" type="application/octet-stream" sparkle:edSignature="VW6cEc7YCGrkG4IeeN+HCgnjEpSaTvxXjbkx5fDKIRXPFdTo+Fg4zkVumsCbLJEi6vxLXBJv0EYL8wcZkVhWDg=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.15/Remark-arm64.dmg" length="14497102" type="application/octet-stream" sparkle:edSignature="2SFHOadDFEUaG/Vgpa5E6ukjj4Q+kwhPbd6/hwnKuKfYemOWi4BCy5hgY7UNlZ7ztPXnqRJsA14o1L37Et8ADw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nIPGXnoBvV7d9aOKfbo7kvHy7IwwivyCekIG7kG1o19igjX2JEMXE5XTV/4UrZFWJ9u5dQSf7k3Z4croEBCOCg==
-length: 1716
+edSignature: yQxtgVSpiA8JyZnB+voPkGGcCphF+OCTJAtX+nY9hHXVaZaERNiZbVAgYqCzqmFiQMGUmGTiEkd80VnFcy8NCg==
+length: 1535
 -->
