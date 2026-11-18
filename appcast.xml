@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.15</title>
-      <pubDate>Wed, 18 Nov 2026 13:27:43 +0000</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <title>Remark 0.1.16</title>
+      <pubDate>Wed, 18 Nov 2026 14:53:49 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.15 · сборка 17
+      <description>Remark 0.1.16 · сборка 18
 
-- Окно ⌘E стало на 20 пунктов ниже. У «Стиля» и «Своего запроса» одинаковая высота.
-- Под быстрыми действиями меньше пустого места, а сами кнопки выше.
-- Поле «Свой запрос» компактнее и вмещает две строки. Длинный текст прокручивается внутри поля.
+- Правка голосовой командой в конце диктовки. Попробуйте надиктовать текст и сказать «Напиши короче».
+- Три примера возможностей Remark в начале онбординга.
+- Небольшие правки интерфейса.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.15/Remark-arm64.dmg" length="14497102" type="application/octet-stream" sparkle:edSignature="2SFHOadDFEUaG/Vgpa5E6ukjj4Q+kwhPbd6/hwnKuKfYemOWi4BCy5hgY7UNlZ7ztPXnqRJsA14o1L37Et8ADw=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.16/Remark-arm64.dmg" length="14561906" type="application/octet-stream" sparkle:edSignature="MqBCFhdcXK/XuHqoi2DmQKppddIXR+kOs6gWQrFTVE3CcgoRthstEmxzs8pFm5TNSTM5OlP+1Mwadzwsso7bCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yQxtgVSpiA8JyZnB+voPkGGcCphF+OCTJAtX+nY9hHXVaZaERNiZbVAgYqCzqmFiQMGUmGTiEkd80VnFcy8NCg==
-length: 1535
+edSignature: zs+JEOckfSe8bMmPAJQEeT5IZsYZpX2tvyy80XlI5HVT6Xf+rw6tuSjKfUMMt6He2JBf+MFGW1ZS0rciSnrXCQ==
+length: 1427
 -->
