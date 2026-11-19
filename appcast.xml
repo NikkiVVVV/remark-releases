@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.21</title>
-      <pubDate>Thu, 19 Nov 2026 12:23:47 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <title>Remark 0.1.22</title>
+      <pubDate>Thu, 19 Nov 2026 12:43:16 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.21 · сборка 23
+      <description>Remark 0.1.22 · сборка 24
 
-Обновили окно установки. Перетащите Remark в «Программы». Подсказка и кнопка для перехода в настройки macOS теперь находятся в папке «Первый запуск».
+Упростили окно установки. Чтобы установить Remark, перетащите его в «Программы».
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.21/Remark-arm64.dmg" length="17897472" type="application/octet-stream" sparkle:edSignature="9ABmn7QMriHHDAzO8gJsbOpo3r2ax9n+jWx7vc5pm7s9TR20y3T83uaFg4EzDv85wFpER3iOI2LT92OpfzQlCQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.22/Remark-arm64.dmg" length="15211008" type="application/octet-stream" sparkle:edSignature="rBsQ0l4UTX0MyfbNsOt+rw+KHyTW7v4a/ahGF5BOTNkJWcpQN3ZAoqHMdpgZJl1uOoKGDMGpd/Da39ff9/cwAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9NZcnCjEjEZ/fZpwyFZGMzNZUd067YqsHGu3aR+IOPLLggoLRqGjVDblf9Iqs4kyjpsa1PfYXtMxoR29e/1wCg==
-length: 1355
+edSignature: UKrj3fdt7DudPrAemXdV1fVZy2teEI5KYYfwF3qZMNGCD99Jei2Er9R2iTiMDdI78GepRPJ4WHK3VMSb4kdgDA==
+length: 1233
 -->
