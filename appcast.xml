@@ -4,20 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.19</title>
-      <pubDate>Thu, 19 Nov 2026 09:38:03 +0000</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <title>Remark 0.1.20</title>
+      <pubDate>Thu, 19 Nov 2026 11:56:29 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.19 · сборка 21
+      <description>Remark 0.1.20 · сборка 22
 
-- Новое окно установки с подсказкой, как перетащить Remark в «Программы» и подтвердить первый запуск в macOS.
-- ⌘⌥ открывает разметку сразу. Папку и чат можно выбрать в окне комментария. При отмене выбора папки черновик сохраняется.
+В режиме «Пауза музыки» Remark умеет ставить открытое видео YouTube на паузу через кнопку плеера. Диктовка начинается и при отказе браузера.
+
+В режиме «Глушить звук» исправили возврат громкости Bluetooth-наушников после записи.
+
+При первом запуске модель диктовки и движок скачиваются одновременно. Экран показывает общий прогресс и подсказывает, как диктовать.
+
+В онбординге можно разрешить запись экрана для скриншотов в комментариях. Небольшие правки интерфейса.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.19/Remark-arm64.dmg" length="15488512" type="application/octet-stream" sparkle:edSignature="xd8DJQiJDPPRlwgB3XUEjfc/tdA4yBw4w3LEi/dJbNJoEEl0aT7/JDAgTLlCKSIcmK9oKW8WDfXk1ewDiOIEDQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.20/Remark-arm64.dmg" length="17846272" type="application/octet-stream" sparkle:edSignature="cDJdocEY8eq4LMpb0nfgpElXGUq9s7WcY3L3tfPwLS3PDMlZqhJTLxhFMgfTx0u5upPs1vyCvSb91c27QxSwDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Zp8jj6uF5e/6jwVNHabeWQrblkKj16o8vfgP5LaU6dZN8HBSvvqIS7d6QhN/DU9zzamzmnbthHXQ+ewNEu3tBA==
-length: 1504
+edSignature: /XxYY+byYQfNjF6TlHgpJIQtYRt5sy1lLfFMvH7hm0wsIdzKgJHnT3pUgdPWXFNfVctsZVND5184TcZhPDdpAw==
+length: 1927
 -->
