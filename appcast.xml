@@ -4,21 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.16</title>
-      <pubDate>Wed, 18 Nov 2026 14:53:49 +0000</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <title>Remark 0.1.18</title>
+      <pubDate>Thu, 19 Nov 2026 07:54:28 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.16 · сборка 18
+      <description>Remark 0.1.18 · сборка 20
 
-- Правка голосовой командой в конце диктовки. Попробуйте надиктовать текст и сказать «Напиши короче».
-- Три примера возможностей Remark в начале онбординга.
+- Новый онбординг с примерами диктовки, правки текста и передачи комментариев в Codex и Claude.
+- После примеров Remark предложит ввести код приглашения. Код можно запросить через Telegram.
+- Parakeet скачивается в фоне с первого экрана. Если модель уже готова, после выдачи разрешений Remark сразу открывает пробную диктовку.
+- Добавлен учёт использования диктовки, правки текста и комментариев. Записи и тексты в события не входят.
 - Небольшие правки интерфейса.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.16/Remark-arm64.dmg" length="14561906" type="application/octet-stream" sparkle:edSignature="MqBCFhdcXK/XuHqoi2DmQKppddIXR+kOs6gWQrFTVE3CcgoRthstEmxzs8pFm5TNSTM5OlP+1Mwadzwsso7bCw=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.18/Remark-arm64.dmg" length="15413462" type="application/octet-stream" sparkle:edSignature="8IiAD64Io9BmKGwkh841KCRAWeQHhPpJhVsDAN42usKnyy7ufrjf2UqcQBZel8XNHf7Ki6kgKPQanXat2ENuBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zs+JEOckfSe8bMmPAJQEeT5IZsYZpX2tvyy80XlI5HVT6Xf+rw6tuSjKfUMMt6He2JBf+MFGW1ZS0rciSnrXCQ==
-length: 1427
+edSignature: MBPN5o5w/fApVwCW2qoLg1c2viUoHz/UUAoVErVemQoyCuoLI76OsfyGUpgZaE0h5BRNYnlyhfU1/etSvK2wDg==
+length: 1897
 -->
