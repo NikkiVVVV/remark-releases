@@ -4,25 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.20</title>
-      <pubDate>Thu, 19 Nov 2026 11:56:29 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <title>Remark 0.1.21</title>
+      <pubDate>Thu, 19 Nov 2026 12:23:47 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.20 · сборка 22
+      <description>Remark 0.1.21 · сборка 23
 
-В режиме «Пауза музыки» Remark умеет ставить открытое видео YouTube на паузу через кнопку плеера. Диктовка начинается и при отказе браузера.
-
-В режиме «Глушить звук» исправили возврат громкости Bluetooth-наушников после записи.
-
-При первом запуске модель диктовки и движок скачиваются одновременно. Экран показывает общий прогресс и подсказывает, как диктовать.
-
-В онбординге можно разрешить запись экрана для скриншотов в комментариях. Небольшие правки интерфейса.
+Обновили окно установки. Перетащите Remark в «Программы». Подсказка и кнопка для перехода в настройки macOS теперь находятся в папке «Первый запуск».
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.20/Remark-arm64.dmg" length="17846272" type="application/octet-stream" sparkle:edSignature="cDJdocEY8eq4LMpb0nfgpElXGUq9s7WcY3L3tfPwLS3PDMlZqhJTLxhFMgfTx0u5upPs1vyCvSb91c27QxSwDQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.21/Remark-arm64.dmg" length="17897472" type="application/octet-stream" sparkle:edSignature="9ABmn7QMriHHDAzO8gJsbOpo3r2ax9n+jWx7vc5pm7s9TR20y3T83uaFg4EzDv85wFpER3iOI2LT92OpfzQlCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /XxYY+byYQfNjF6TlHgpJIQtYRt5sy1lLfFMvH7hm0wsIdzKgJHnT3pUgdPWXFNfVctsZVND5184TcZhPDdpAw==
-length: 1927
+edSignature: 9NZcnCjEjEZ/fZpwyFZGMzNZUd067YqsHGu3aR+IOPLLggoLRqGjVDblf9Iqs4kyjpsa1PfYXtMxoR29e/1wCg==
+length: 1355
 -->
