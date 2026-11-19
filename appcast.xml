@@ -4,23 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.18</title>
-      <pubDate>Thu, 19 Nov 2026 07:54:28 +0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <title>Remark 0.1.19</title>
+      <pubDate>Thu, 19 Nov 2026 09:38:03 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.18 · сборка 20
+      <description>Remark 0.1.19 · сборка 21
 
-- Новый онбординг с примерами диктовки, правки текста и передачи комментариев в Codex и Claude.
-- После примеров Remark предложит ввести код приглашения. Код можно запросить через Telegram.
-- Parakeet скачивается в фоне с первого экрана. Если модель уже готова, после выдачи разрешений Remark сразу открывает пробную диктовку.
-- Добавлен учёт использования диктовки, правки текста и комментариев. Записи и тексты в события не входят.
-- Небольшие правки интерфейса.
+- Новое окно установки с подсказкой, как перетащить Remark в «Программы» и подтвердить первый запуск в macOS.
+- ⌘⌥ открывает разметку сразу. Папку и чат можно выбрать в окне комментария. При отмене выбора папки черновик сохраняется.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.18/Remark-arm64.dmg" length="15413462" type="application/octet-stream" sparkle:edSignature="8IiAD64Io9BmKGwkh841KCRAWeQHhPpJhVsDAN42usKnyy7ufrjf2UqcQBZel8XNHf7Ki6kgKPQanXat2ENuBQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.19/Remark-arm64.dmg" length="15488512" type="application/octet-stream" sparkle:edSignature="xd8DJQiJDPPRlwgB3XUEjfc/tdA4yBw4w3LEi/dJbNJoEEl0aT7/JDAgTLlCKSIcmK9oKW8WDfXk1ewDiOIEDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MBPN5o5w/fApVwCW2qoLg1c2viUoHz/UUAoVErVemQoyCuoLI76OsfyGUpgZaE0h5BRNYnlyhfU1/etSvK2wDg==
-length: 1897
+edSignature: Zp8jj6uF5e/6jwVNHabeWQrblkKj16o8vfgP5LaU6dZN8HBSvvqIS7d6QhN/DU9zzamzmnbthHXQ+ewNEu3tBA==
+length: 1504
 -->
