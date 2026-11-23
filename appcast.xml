@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.23</title>
-      <pubDate>Mon, 23 Nov 2026 13:00:31 +0000</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <title>Remark 0.1.24</title>
+      <pubDate>Mon, 23 Nov 2026 15:21:15 +0000</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.23
+      <description>Remark 0.1.24
 
-- Обновили онбординг, главную и сообщения об ошибках. Код приглашения вводится сразу после приветственного видео.
-- Уменьшили размер модели локальной диктовки примерно до 755 МБ. Улучшили загрузку движка и переход на запасной источник.
-- При отклонении правки через Codex или Claude Remark пробует запасной сервер.
+- Enter отправляет комментарий, а Shift+Enter добавляет новую строку.
+- Remark запоминает новый чат, когда может определить его в выбранном проекте.
+- Если микрофон занят, после ручного включения запись снова запускается автоматически в следующих комментариях.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.23/Remark-arm64.dmg" length="20953088" type="application/octet-stream" sparkle:edSignature="ZX+S/vR1QaG7PHE4VUKzpG9osFgJWa5oa/h799tymzPGK6h/gDEG8SUXQaeIL9cYYqpLaLbcXOPR7aTFibdbDQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.24/Remark-arm64.dmg" length="20964352" type="application/octet-stream" sparkle:edSignature="HWUs5+VrmN80K/0A71WOPKbwobOqW/caG62rHAoxWbpRn7wSZpFbGi2cXnsT+M45Wk9l5z719uZrcqzJU0SLAQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: c6w10ntu8fl7SSdGW3dIafKUj8bqZqJFYw3hCl4/D8y/uJoBlENgMx7EMlAf3jDjU+KIaX4ga1hCCf/jD3NxBA==
-length: 1627
+edSignature: ETWtm4vgL1sCD/OY7GOsUqozf4R19N0oTOblfu73c4aTmKT+5hp9Em1nA7hJoPUNmX8pZS0sEsr1cotR4rQMBg==
+length: 1527
 -->
