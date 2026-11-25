@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Remark</title>
     <item>
-      <title>Remark 0.1.24</title>
-      <pubDate>Mon, 23 Nov 2026 15:21:15 +0000</pubDate>
-      <sparkle:version>65</sparkle:version>
-      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <title>Remark 0.1.25</title>
+      <pubDate>Wed, 25 Nov 2026 19:50:05 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>Remark 0.1.24
+      <description>Remark 0.1.25
 
-- Enter отправляет комментарий, а Shift+Enter добавляет новую строку.
-- Remark запоминает новый чат, когда может определить его в выбранном проекте.
-- Если микрофон занят, после ручного включения запись снова запускается автоматически в следующих комментариях.
+- Remark отправляет аналитику раз в сутки или раньше, если накопилось 250 событий. Очередь сохраняется между запусками.
 </description>
-      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.24/Remark-arm64.dmg" length="20964352" type="application/octet-stream" sparkle:edSignature="HWUs5+VrmN80K/0A71WOPKbwobOqW/caG62rHAoxWbpRn7wSZpFbGi2cXnsT+M45Wk9l5z719uZrcqzJU0SLAQ=="></enclosure>
+      <enclosure url="https://github.com/NikkiVVVV/remark-releases/releases/download/v0.1.25/Remark-arm64.dmg" length="20964864" type="application/octet-stream" sparkle:edSignature="MEyPnI5vhEOwMkgwf9dE/V91FTDhplXnKSsdFMs2f9D69pnRsu2cMoRQWgeZukiELddfgYpIgVZjdLfqzPU3Cg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ETWtm4vgL1sCD/OY7GOsUqozf4R19N0oTOblfu73c4aTmKT+5hp9Em1nA7hJoPUNmX8pZS0sEsr1cotR4rQMBg==
-length: 1527
+edSignature: f/7N7Ppx595DvZ2da6grj5UizRViSUbnL42Gv1pW5fhrBaf3ayL5pXqpxqC1raW9zZVD2EyoTQVtUdRaNVjWBg==
+length: 1281
 -->
